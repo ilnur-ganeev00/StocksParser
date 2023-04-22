@@ -1,0 +1,23 @@
+.result{
+    font-weight: bold;
+}
+
+.scale_red{
+    color: red;
+}
+
+.scale_orange{
+    color: orange;
+}
+
+.scale_green{
+    color: green;
+}
+
+table, tr, th, td {
+    border: 1px solid black;
+ }
+
+td {
+    text-align: center;
+}
